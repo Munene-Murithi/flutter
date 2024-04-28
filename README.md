@@ -1,2 +1,2 @@
-## A simple flutter Application
-First application using dart with flutter.
+### Practicing with flutter
+Check the cool projects in repo.
